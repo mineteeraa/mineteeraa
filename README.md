@@ -3,9 +3,8 @@
 ## 👩 &nbsp;About Me
 
 🎓 &nbsp;I graduated with software engineering from Chiang Mai University.\
-💻 &nbsp;Now I'm looking for a Full-Time Frontend Developer position (able to Work From Anywhere or Hybrid in Chiang Mai).\
-💬 &nbsp;I'm available for new job opportunities. Feel free to reach out to me to discuss further.\
-✉️ &nbsp;You can drop a message an email at patteera_m@outlook.com! I'll try to respond as soon as I can.\
+💻 &nbsp;Now I'm Frontend Developer.\
+✍ &nbsp;I am learning and practicing more!.\
 📄 &nbsp;Please have a look at my [resume website](https://patteera-mu-portfolio.netlify.app/) for more details about me.\
 🙏 &nbsp;Thank you!
 
